@@ -1,1 +1,1 @@
-# Alaram-Clock-using-HTML
+# Alarm-Clock-using-HTML
